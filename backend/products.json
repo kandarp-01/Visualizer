@@ -1,0 +1,44 @@
+[
+  {
+    "id": "p001",
+    "name": "Blue Cotton T-Shirt",
+    "category": "Clothing",
+    "image_url": "https://images.unsplash.com/photo-1520975928-6df8b4f8f4f4",
+    "embedding": []
+  },
+  {
+    "id": "p002",
+    "name": "Red Running Shoes",
+    "category": "Footwear",
+    "image_url": "https://images.unsplash.com/photo-1519741491215-5f5a2d1d3c3a",
+    "embedding": []
+  },
+  {
+    "id": "p003",
+    "name": "Black Leather Wallet",
+    "category": "Accessories",
+    "image_url": "https://images.unsplash.com/photo-1526178615293-0c2a9f1b4d8e",
+    "embedding": []
+  },
+  {
+    "id": "p004",
+    "name": "Wooden Dining Table",
+    "category": "Furniture",
+    "image_url": "https://images.unsplash.com/photo-1540574163026-643ea20ade25",
+    "embedding": []
+  },
+  {
+    "id": "p005",
+    "name": "Stainless Steel Watch",
+    "category": "Accessories",
+    "image_url": "https://images.unsplash.com/photo-1518546305923-7a6f2a0f0f2f",
+    "embedding": []
+  },
+  {
+    "id": "p006",
+    "name": "White Ceramic Mug",
+    "category": "Home",
+    "image_url": "https://images.unsplash.com/photo-1523986371872-9d3ba2e2f0f2",
+    "embedding": []
+  }
+]
